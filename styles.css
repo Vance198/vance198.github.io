@@ -12,6 +12,11 @@ header {
     padding: 20px;
 }
 
+nav {
+    background-color: #b10000;
+    padding: 10px;
+}
+
 section {
     margin: 20px;
 }
