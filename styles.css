@@ -35,6 +35,7 @@ body {
   
   /* Style the links inside the navigation bar */
   .topnav a {
+    font-family: 'Snell Roundhand', cursive;
     float: left;
     color: #f2f2f2;
     text-align: center;
