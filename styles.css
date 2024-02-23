@@ -8,8 +8,8 @@ body {
     box-sizing: border-box;
 
     .profile-picture {
-        width: 500px; /* Adjust the size as needed */
-        height: 500px;
+        width: 400px; /* Adjust the size as needed */
+        height: 400px;
         overflow: hidden;
         border-radius: 50%; /* Creates a circular shape */
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
@@ -40,7 +40,7 @@ body {
     text-align: center;
     padding: 20px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 25px;
   }
 
   .header {
@@ -59,7 +59,7 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 15px;
+    padding: 10px;
     position: fixed;
     bottom: 0;
     width: 100%;
