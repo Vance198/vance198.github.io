@@ -16,8 +16,8 @@ body {
         border-radius: 50%; /* Creates a circular shape */
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
         position: absolute;
-        top: 50px; /* Adjust the top position */
-        left: 100px; /* Adjust the left position */
+        top: 150px; /* Adjust the top position */
+        left: 300px; /* Adjust the left position */
     }
     
     .profile-picture img {
