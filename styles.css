@@ -14,9 +14,32 @@ body {
 
 header {
     background-color: #333;
-    color: #fff;
+    color: #a52020;
     text-align: center;
     padding: 20px;
+}
+
+   
+#header-image-menu{
+    top: 10px;
+    position: relative;
+}
+
+#header-image-menu img{
+    width: 100%;
+    margin: none;
+    padding: none;
+}
+
+   
+#image-text{
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    font-family: 'Roboto';
+    color: #000;
+    transform: translate(-30%, -30%);
+    text-align: center;
 }
 
 nav {
