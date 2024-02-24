@@ -8,8 +8,8 @@ body {
     box-sizing: border-box;
 
     .profile-picture {
-        width: auto; /* Adjust the size as needed */
-        height: auto;
+        width: 450px; /* Adjust the size as needed */
+        height: 450px;
         float: left;
         margin-top: 0px;
         margin-left: 150px;
