@@ -13,7 +13,7 @@ body {
         float: left;
         margin-top: 0px;
         margin-left: 150px;
-        margin-right: 200px;
+        margin-right: 150px;
         overflow: hidden;
         border-radius: 50%; /* Creates a circular shape */
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
