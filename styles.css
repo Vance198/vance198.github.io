@@ -11,6 +11,7 @@ body {
         width: 350px; /* Adjust the size as needed */
         height: 350px;
         float: left;
+        margin-left: 50px;
         margin-right: 20px;
         overflow: hidden;
         border-radius: 50%; /* Creates a circular shape */
@@ -34,7 +35,7 @@ body {
     
     /* Add margin to create space between icons */
     .icon-container i {
-        margin-right: 10px; /* Adjust the margin between icons */
+        margin-right: 30px; /* Adjust the margin between icons */
     }
 }
        
