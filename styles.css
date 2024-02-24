@@ -39,7 +39,7 @@ body {
     
     /* Add margin to create space between icons */
     .icon-container i {
-        margin-right: 50px; /* Adjust the margin between icons */
+        margin-right: 70px; /* Adjust the margin between icons */
     }
     
     .horizontal-margins {
@@ -52,7 +52,7 @@ body {
     }
 
      .header-large {
-        margin-top: 100px;
+        margin-top: 150px;
         margin-bottom: 30px;
         margin-left: 300px; /* Adjust the left margin */
         margin-right: 300px; /* Adjust the right margin */
@@ -80,13 +80,6 @@ body {
     text-decoration: none;
     font-size: 25px;
   }
-
-  .header-icon {
-    font-size: 18px; /* Adjust font size for the header */
-    margin-bottom: 10px; /* Adjust spacing between header and icon */
-    display: flex;
-    align-items: center;
-    }
     .caption {
         display: block;
     }
