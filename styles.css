@@ -14,10 +14,7 @@ body {
     height: 100vh; /* Set the height of the container, adjust as needed */
 }
 
-/* Clear the float to prevent layout issues */
-.text-content {
-    overflow: hidden;
-}
+
 
     .profile-picture {
         width: 350px; /* Adjust the size as needed */
@@ -27,7 +24,7 @@ body {
         overflow: hidden;
         border-radius: 50%; /* Creates a circular shape */
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
-        position: absolute;
+        position: relative;
         top: 50%;
         left: 0;
         transform: translate(0, -50%);
@@ -39,7 +36,10 @@ body {
         object-fit: cover; /* Ensures the image covers the circular container */
         border: 2px solid #000000ab; /* Optional: Add a border for better contrast */
     }
-      
+
+    .text-content {
+        overflow: hidden;
+    }
 }
         .larger-icon {
         font-size: 50px; /* Adjust the size as needed */
