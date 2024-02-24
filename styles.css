@@ -37,6 +37,7 @@ body {
     /* Add margin to create space between icons */
     .icon-container i {
         margin-right: 50px; /* Adjust the margin between icons */
+        text-align: center;
     }
     
     .horizontal-margins {
@@ -57,7 +58,7 @@ body {
         text-align: center;
      }  
     .larger-icon {
-        font-size: 50px; /* Adjust the size as needed */
+        font-size: 60px; /* Adjust the size as needed */
         }
     }
 
