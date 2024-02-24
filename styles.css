@@ -40,6 +40,15 @@ body {
     .text-content {
         overflow: hidden;
     }
+    
+    .icon-container {
+        font-size: 24px; /* Set the font size for icons, adjust as needed */
+    }
+    
+    /* Add margin to create space between icons */
+    .icon-container i {
+        margin-right: 10px; /* Adjust the margin between icons */
+    }
 }
         .larger-icon {
         font-size: 50px; /* Adjust the size as needed */
