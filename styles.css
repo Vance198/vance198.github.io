@@ -11,8 +11,9 @@ body {
         width: 350px; /* Adjust the size as needed */
         height: 350px;
         float: left;
-        margin-left: 50px;
-        margin-right: 20px;
+        margin-top: 50px;
+        margin-left: 100px;
+        margin-right: 30px;
         overflow: hidden;
         border-radius: 50%; /* Creates a circular shape */
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
@@ -38,8 +39,8 @@ body {
         margin-right: 50px; /* Adjust the margin between icons */
     }
     .horizontal-margins {
-        margin-left: 75px; /* Adjust the left margin */
-        margin-right: 75px; /* Adjust the right margin */
+        margin-left: 150px; /* Adjust the left margin */
+        margin-right: 150px; /* Adjust the right margin */
     }
 }
        
