@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     background-image: url('Wallpaper1.jpg'); /* Replace with your image file path */
     background-size: contain; /* Ensures the image covers the entire body */
     background-position: center; /* Centers the image */
@@ -40,8 +40,8 @@ body {
     }
     
     .horizontal-margins {
-        margin-left: 150px; /* Adjust the left margin */
-        margin-right: 150px; /* Adjust the right margin */
+        margin-left: 100px; /* Adjust the left margin */
+        margin-right: 100px; /* Adjust the right margin */
     }
 
     .centered-header {
