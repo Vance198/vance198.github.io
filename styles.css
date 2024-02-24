@@ -14,8 +14,6 @@ body {
     height: 100vh; /* Set the height of the container, adjust as needed */
 }
 
-
-
     .profile-picture {
         width: 350px; /* Adjust the size as needed */
         height: 350px;
@@ -37,10 +35,6 @@ body {
         border: 2px solid #000000ab; /* Optional: Add a border for better contrast */
     }
 
-    .text-content {
-        overflow: hidden;
-    }
-    
     .icon-container {
         font-size: 24px; /* Set the font size for icons, adjust as needed */
     }
