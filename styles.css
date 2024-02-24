@@ -8,12 +8,12 @@ body {
     box-sizing: border-box;
 
     .profile-picture {
-        width: 350px; /* Adjust the size as needed */
-        height: 350px;
+        width: 400px; /* Adjust the size as needed */
+        height: 400px;
         float: left;
         margin-top: 50px;
         margin-left: 150px;
-        margin-right: 30px;
+        margin-right: 75px;
         overflow: hidden;
         border-radius: 50%; /* Creates a circular shape */
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
@@ -34,8 +34,6 @@ body {
 
     .icon-container {
         text-align: center;
-        margin-left: 300px; /* Adjust the left margin */
-        margin-right: 300px; /* Adjust the right margin */
     }
     
     /* Add margin to create space between icons */
@@ -45,7 +43,7 @@ body {
     
     .horizontal-margins {
         margin-top: 30px;
-        margin-bottom: 50px;
+        margin-bottom: 100px;
         margin-left: 300px; /* Adjust the left margin */
         margin-right: 300px; /* Adjust the right margin */
         font-size: 20px;
