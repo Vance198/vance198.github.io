@@ -38,9 +38,16 @@ body {
     .icon-container i {
         margin-right: 50px; /* Adjust the margin between icons */
     }
+    
     .horizontal-margins {
         margin-left: 150px; /* Adjust the left margin */
         margin-right: 150px; /* Adjust the right margin */
+    }
+
+    .centered-header {
+        margin-left: 150px; /* Adjust the left margin */
+        margin-right: 150px; /* Adjust the right margin */
+        text-align: center; /* Center-align the text */
     }
 }
        
