@@ -35,7 +35,11 @@ body {
     
     /* Add margin to create space between icons */
     .icon-container i {
-        margin-right: 30px; /* Adjust the margin between icons */
+        margin-right: 50px; /* Adjust the margin between icons */
+    }
+    .horizontal-margins {
+        margin-left: 20px; /* Adjust the left margin */
+        margin-right: 20px; /* Adjust the right margin */
     }
 }
        
