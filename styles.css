@@ -33,8 +33,9 @@ body {
     }
 
     .icon-container {
-        margin: 0;
         text-align: center;
+        margin-left: 300px; /* Adjust the left margin */
+        margin-right: 300px; /* Adjust the right margin */
     }
     
     /* Add margin to create space between icons */
