@@ -11,7 +11,7 @@ body {
         width: 350px; /* Adjust the size as needed */
         height: 350px;
         float: left;
-        margin-top: 75px;
+        margin-top: 50px;
         margin-left: 150px;
         margin-right: 30px;
         overflow: hidden;
@@ -26,12 +26,21 @@ body {
         border: 2px solid #000000ab; /* Optional: Add a border for better contrast */
     }
 
+    /* Hide the text initially */
+    .icon-text {
+    display: none;
+    }
+    .icon-container:hover .icon-text {
+        display: inline-block;
+    }
+    
     .icon-container a {
         text-decoration: none;
     }
 
     .icon-container {
         font-size: 20px; /* Set the font size for icons, adjust as needed */
+        display: inline-block;
     }
     
     /* Add margin to create space between icons */
