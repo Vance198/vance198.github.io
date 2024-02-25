@@ -1,6 +1,5 @@
 body {
     font-family: "Times New Roman", Times, serif;
-    background-image: url('Wallpaper1.jpg'); /* Replace with your image file path */
     background-size: contain; /* Ensures the image covers the entire body */
     background-position: center; /* Centers the image */
     margin: 0;
@@ -16,7 +15,7 @@ body {
         margin-right: 150px;
         overflow: hidden;
         border-radius: 50%; /* Creates a circular shape */
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow border */
     }
     
     .profile-picture img {
@@ -25,8 +24,6 @@ body {
         object-fit: cover; /* Ensures the image covers the circular container */
         border: 2px solid #000000ab; /* Optional: Add a border for better contrast */
     }
-
-    /* Hide the text initially */
 
     .icon-container a {
         text-decoration: none;

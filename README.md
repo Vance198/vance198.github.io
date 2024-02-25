@@ -23,6 +23,7 @@ have everything they need in one page. There are some stuff I will implement and
 
 # Things to implement
 - Fill in White Space
+- Include Real portrait and then move pixel version to navbar
 - Projects
 - PDF file opens a new page rather than forcing a download
 - Resizable page
