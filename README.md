@@ -17,9 +17,13 @@ all the files, images, and icons. Third day was used for design.
 
 # Description
 - I wanted to keep my portfolio very simple and minimalistic. I
-was thinking from a employer perspective, and if I am last on the list
-of applicants, I want them to have everything they need within one page and
-without having them to go through a bulk of text to find what they need. 
-There are some stuff I will implement and change once I gain more experience, like adding projects that are worthy of showing.
+was thinking from a employer perspective, and if I am last on the a long list
+of applicants, the person viewing my portfolio would want to see something eye-popping or something quick. Since I do not have the skills to make something flashy at the moment, I kept it simple to let the viewer 
+have everything they need in one page. There are some stuff I will implement and change once I gain more experience, like adding projects that are worthy of showing.
 
+# Things to implement
+- Fill in White Space
+- Projects
+- PDF file opens a new page rather than forcing a download
+- Resizable page
 
